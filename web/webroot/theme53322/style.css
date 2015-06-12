@@ -1,34 +1,79 @@
-/*--
-	Theme Name: theme53322
-	Theme URI: http://info.template-help.com/help/
-	Description: A theme for Wordpress 4.1.x
-	Author: Template_Help.com
-	Author URI: http://info.template-help.com/help/
-	Template: CherryFramework
-	Version: 3.1.4
---*/
-
-/* ----------------------------------------
-	Please, You may put custom css here
----------------------------------------- */
-
-form.sml_subscribe input.sml_nameinput, form.sml_subscribe input.sml_emailinput{
-  padding: 20px;
-  border-radius: 20px;
-  width: 50%;
-}
-#logo-slider .logo_h.logo_h__img{ display:none;}
-
-.parallax-slider.simple-fade-eff, #mainCaptionHolder{
-  height: 550px !important;
-}
-.footer{
-	padding: 20px 0 !important;
-}
-.parallax-slider.simple-fade-eff #mainCaptionHolder .primaryCaption{
-	text-align: right;
-}
-.slider_caption h2, .slider_caption p{
-	text-align: right;
-	padding: 20px;
+/*--
+
+	Theme Name: theme53322
+
+	Theme URI: http://info.template-help.com/help/
+
+	Description: A theme for Wordpress 4.1.x
+
+	Author: Template_Help.com
+
+	Author URI: http://info.template-help.com/help/
+
+	Template: CherryFramework
+
+	Version: 3.1.4
+
+--*/
+
+
+
+/* ----------------------------------------
+
+	Please, You may put custom css here
+
+---------------------------------------- */
+
+
+
+form.sml_subscribe input.sml_nameinput, form.sml_subscribe input.sml_emailinput{
+
+  padding: 20px;
+
+  border-radius: 20px;
+
+  width: 50%;
+
+}
+
+#logo-slider .logo_h.logo_h__img{ display:none;}
+
+
+
+.parallax-slider.simple-fade-eff, #mainCaptionHolder{
+
+  height: 650px !important;
+
+}
+
+.footer{
+
+	padding: 20px 0 !important;
+
+}
+
+.parallax-slider.simple-fade-eff #mainCaptionHolder .primaryCaption{
+
+	text-align: right;
+
+}
+
+.slider_caption h2, .slider_caption p{
+
+	text-align: right;
+
+	padding: 20px;
+
+}
+
+
+/* ----------------------------------------
+
+	Radical Graphics Extended Code
+
+---------------------------------------- */
+
+
+.multimedia_text{
+	font-size: 14px;
 }
