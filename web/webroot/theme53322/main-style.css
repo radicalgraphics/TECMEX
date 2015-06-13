@@ -1,6 +1,7 @@
 @import url("../CherryFramework/style.css");
 @import url(//fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic,600,600italic,700,300|Source+Serif+Pro:400,600,700);
 @import url("font/fontello.css");
+@import url("font/font-awesome.css");
 .main-holder {
 	z-index:100;
 	overflow:hidden;
