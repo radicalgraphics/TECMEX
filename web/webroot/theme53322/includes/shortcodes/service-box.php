@@ -50,13 +50,15 @@ if (!function_exists('service_box_shortcode')) {
 
 
 
-		if($icon != 'no' && ($svg == 'false')) {
+		if($icon != 'no' && ($svg == 'false') && ($icon != 'enlace')) {
 
 			if (strpos ($icon, "icon-") !== false) {
 
 				$output .= '<figure class="icon"><i class="'.$icon.'"></i></figure>';
 
-			} else {
+			
+
+			}else{
 
 		 	// 	$icon_url = CHERRY_PLUGIN_URL . 'includes/images/' . strtolower($icon) . '.png' ;
 
@@ -103,6 +105,10 @@ if (!function_exists('service_box_shortcode')) {
 			
 
 			
+
+		}if ($icon == 'enlace') {
+
+				$output .= '<div class="svg-container"><img src="http://cegs.mx/wp-content/uploads/2015/06/cienlogo-e1434127164668.jpg"></div>';
 
 		}
 
@@ -162,7 +168,7 @@ if (!function_exists('service_box_shortcode')) {
 
 
 
-		if ($btn_link!="" && $btn_text != '') {
+		if ($btn_link!="" && $btn_text != '' && $icon!="enlace") {
 
 			$output .=  '<div class="btn-align"><a href="'.$btn_link.'" title="'.$btn_text.'" class="btn btn-inverse btn-'.$btn_size.' btn-primary " target="'.$target.'">';
 
