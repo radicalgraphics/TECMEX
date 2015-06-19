@@ -22,7 +22,7 @@ ul.social.custom li{ backgroun:red; display: inline-block; margin: 0 0 0 29px; w
 
         <li><a href="http://www.instagram.com/cegsmx" target="_blank"><img src="http://cegs.mx/wp-content/uploads/2015/05/inst.png" /></a></li>
 
-        <li><a href="http://www.youtube.com/cegsmx" target="_blank"><img src="http://cegs.mx/wp-content/uploads/2015/06/youtubeicon.png" /></a></li>
+        <li><a href="http://www.youtube.com/cegsmx" target="_blank"><img src="http://cegs.mx/wp-content/uploads/2015/06/youtubeicon1.png" /></a></li>
 
 </ul>
 

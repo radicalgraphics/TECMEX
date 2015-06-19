@@ -108,7 +108,7 @@ if (!function_exists('service_box_shortcode')) {
 
 		}if ($icon == 'enlace') {
 
-				$output .= '<div class="svg-container"><img src="http://cegs.mx/wp-content/uploads/2015/06/cienlogo-e1434127164668.jpg"></div>';
+				$output .= '<div class="svg-container"><img src="http://cegs.mx/wp-content/uploads/2015/06/Books.png"></div>';
 
 		}
 

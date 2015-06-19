@@ -77,3 +77,7 @@ form.sml_subscribe input.sml_nameinput, form.sml_subscribe input.sml_emailinput{
 .multimedia_text{
 	font-size: 14px;
 }
+
+.mision_text{
+	font-size: 20px;
+}
