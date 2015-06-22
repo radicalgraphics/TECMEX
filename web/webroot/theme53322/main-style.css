@@ -3890,13 +3890,14 @@ address a:hover {
 }
 .footer {
 	background:none;
+	background-color: #A72431;
 	border:none;
 	padding:53px 0 50px;
 	font:14px/24px 'Source Sans Pro', sans-serif;
-	color:#c2c2c2;
+	color:#222222;
 }
 .footer a {
-	color:#fff;
+	color:#000000;
 	text-decoration:underline;
 }
 .footer a:hover, .footer a:active, .footer a:focus {
@@ -3905,7 +3906,7 @@ address a:hover {
 }
 .footer-text {
 	font:15px/1.2em 'Source Sans Pro', sans-serif;
-	color:#c2c2c2;
+	color:#222222;
 	float:none;
 }
 @media only screen and (max-width: 767px) {
