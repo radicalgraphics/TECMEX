@@ -4986,3 +4986,41 @@ blockquote p { line-height:22px; }
 	opacity:0;
 	filter:alpha(opacity=0);
 }
+
+.img-responsive {
+display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+@media only screen and (min-width: 980px) and (max-width: 1200px) {
+
+	.img-responsive{
+		max-width:40%;
+		display: inline-block;
+		text-align: center;
+	}
+
+
+	
+}
+
+
+@media only screen and (min-width:767px) and (max-width: 980px){
+
+	.img-responsive{
+		max-width:40%;
+		display: inline-block;
+		text-align: center;
+	}
+
+}
+
+
+@media only screen and (max-width: 767px) {
+	.img-responsive{
+		max-width:52%;
+		display: inline-block;
+		text-align: center;
+	}
+}
