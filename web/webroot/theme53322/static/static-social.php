@@ -16,13 +16,13 @@ ul.social.custom li{ backgroun:red; display: inline-block; margin: 0 0 0 29px; w
 
 <ul class="social custom">
 
-	<li><a href="http://www.facebook.com/cegsmx" target="_blank"><img src="http://cegs.mx/wp-content/uploads/2015/07/facebookicon.png"  /></a></li>
+	<li><a href="http://www.facebook.com/cegsmx" target="_blank"><img src="http://cegs.mx/wp-content/uploads/2015/05/fb1.png"  /></a></li>
 
-        <li><a href="http://www.twitter.com/cegsmx" target="_blank"><img src="http://cegs.mx/wp-content/uploads/2015/07/twittericon.png"/></a></li>
+        <li><a href="http://www.twitter.com/cegsmx" target="_blank"><img src="http://cegs.mx/wp-content/uploads/2015/05/tw.png"/></a></li>
 
-        <li><a href="http://www.instagram.com/cegsmx" target="_blank"><img src="http://cegs.mx/wp-content/uploads/2015/07/instagramicon.png" /></a></li>
+        <li><a href="http://www.instagram.com/cegsmx" target="_blank"><img src="http://cegs.mx/wp-content/uploads/2015/05/inst.png" /></a></li>
 
-        <li><a href="http://www.youtube.com/cegsmx" target="_blank"><img src="http://cegs.mx/wp-content/uploads/2015/07/youtubeicon.png" /></a></li>
+        <li><a href="http://www.youtube.com/cegsmx" target="_blank"><img src="http://cegs.mx/wp-content/uploads/2015/06/youtubeicon1.png" /></a></li>
         <li><a href="http://issuu.com/cienmty"><img title="issuuvector" src="http://cegs.mx/wp-content/uploads/2015/07/issuuvector.png" alt="ISSUU" width="35" height="35" /></a></li>
 </ul>
 
